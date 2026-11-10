@@ -1,0 +1,6 @@
+{
+  "name": "Catering Egypt",
+  "description": "منصة كاترينج مصر المتكاملة لإدارة خدمات الإعاشة والمطابخ المركزية والمواقع - الشركة الوطنية اللوجستية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
